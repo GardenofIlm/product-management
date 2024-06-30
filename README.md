@@ -1,5 +1,6 @@
 # product-management
 30.06.2024 Dev team led by Hamza & Zain. 
+Gardenofilm.com project by GOI
 
 # Project goal:
 Structure and showcase all Islamic knowledge from the ulema in various formats (audio, text, video, resources etc.) exclusively curated (own material) by GOI and make it universally accessible at our user’s fingertips. This includes GOI initiatives (online tuition) & showcasing fatwas and fawa’id. One stop shop for all islamic knowledge, content for all users (students seeking knowledge, reverts etc).
