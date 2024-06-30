@@ -69,3 +69,4 @@ I just wanted to add that as for colour & ui this will be after we have complete
 Subdomains:
 Learn.Gardenofilm.com (TBC)
 
+As for LMS, there will be 2-3 brothers, using moodle open source system. We can tailored it specifically to our needs based off requirements.
