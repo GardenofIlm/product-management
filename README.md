@@ -10,6 +10,11 @@ Gardenofilm.com project by GOI
 - Design ui/ux tasks assigned to Design team
 - Monitor progress/performance bi-weekly
 
+#Dev team expertise:
+https://docs.google.com/document/d/191aICDReFi83ON9G5P7q-27uNsaLNNZ4wQuiD4N4tJM/edit
+
+#Design team expertise:
+https://docs.google.com/document/d/19Vpan5W0O1PjQkwlaYhweMhyJA_SggPPNF2twU4oXm8/edit?usp=sharing
 
 # Project goal:
 Structure and showcase all Islamic knowledge from the ulema in various formats (audio, text, video, resources etc.) exclusively curated (own material) by GOI and make it universally accessible at our user’s fingertips. This includes GOI initiatives (online tuition) & showcasing fatwas and fawa’id. One stop shop for all islamic knowledge, content for all users (students seeking knowledge, reverts etc).
