@@ -1,20 +1,5 @@
 # product-management
-30.06.2024 Dev team led by Hamza & Zain. 
-Gardenofilm.com project by GOI
 
-## To do
-- Roadmap & high level goal (x)
-- Assess requirements and get feedback from MGMT (~)
-- Review dilgently and scrutinise tye tasks overview and make changes (~)
-- Create issues and modify the tasks assignment and assign to members (dev team)
-- Design ui/ux tasks assigned to Design team
-- Monitor progress/performance bi-weekly
-
-#Dev team expertise:
-https://docs.google.com/document/d/191aICDReFi83ON9G5P7q-27uNsaLNNZ4wQuiD4N4tJM/edit
-
-#Design team expertise:
-https://docs.google.com/document/d/19Vpan5W0O1PjQkwlaYhweMhyJA_SggPPNF2twU4oXm8/edit?usp=sharing
 
 # Project goal:
 Structure and showcase all Islamic knowledge from the ulema in various formats (audio, text, video, resources etc.) exclusively curated (own material) by GOI and make it universally accessible at our user’s fingertips. This includes GOI initiatives (online tuition) & showcasing fatwas and fawa’id. One stop shop for all islamic knowledge, content for all users (students seeking knowledge, reverts etc).
@@ -61,17 +46,9 @@ Structure and showcase all Islamic knowledge from the ulema in various formats (
 11. Continuous Improvement: Utilize data-driven decision-making and user feedback for ongoing platform enhancement.
 
 # Core tasks
-Central search engine
+Central advanced search engine
 Lms (Online tuition)
 Knowledge hub (Articles, audio, video, live & more)
 Central user account
 SEO optimisation
 
-# Note
-Note:
-I just wanted to add that as for colour & ui this will be after we have completed the requirements (tasks). So it will be plain clean white design for v1.3 temporarily this is so that we can focus on getting requirements done
-
-Subdomains:
-Learn.Gardenofilm.com (TBC)
-
-As for LMS, there will be 2-3 brothers, using moodle open source system. We can tailored it specifically to our needs based off requirements.
