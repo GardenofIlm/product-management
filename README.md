@@ -1,4 +1,4 @@
-.# product-management
+# product-management
 
 
 # Project goal:
